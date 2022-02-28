@@ -20,7 +20,9 @@ public class Forloop {
 			for(int j=1;j<=i;j++){  
 			        System.out.print("J");  
 			}  
-			System.out.println(">>>>>>>>>>>>>>>>>>>");
+			
+						System.out.println(">>>>>>>>>>>2222>>>>>>>>");
+			System.out.println(">>>>>>>>>>>111>>>>>>>>");
 			}  
 			}  
 			}  
